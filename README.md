@@ -38,7 +38,7 @@ The users of the platform will be able to browse the available cars, get their f
 ### Admin page:
 -----
 #### The admin explores the browsing available cars in full detail and can add, edit and delete a car
-![admin](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/4adad701-a722-47a7-b0c0-68d6c9cedd82)
+![admin](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/1c4b6d0b-2af2-4b23-9254-78e18487a76a)
 
 
 ### Add Car:
