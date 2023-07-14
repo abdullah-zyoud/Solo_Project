@@ -57,7 +57,7 @@ The users of the platform will be able to browse the available cars, get their f
 -----
 #### The user explores browsing the available cars in full detail and can book a car
 
-![user](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/e3a07a5b-846d-4806-9e8e-b7a8baa2de6e)
+![user](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/7b7a51a6-1948-4d98-afbd-978e55126c53)
 
 ### Book Page:
 -----
