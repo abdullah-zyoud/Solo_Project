@@ -61,7 +61,7 @@ The users of the platform will be able to browse the available cars, get their f
 
 ### Book Page:
 -----
-![book](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/fd702740-97fb-4727-8902-41561c1171b8)
+![book](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/2e4f3e4c-9f11-4934-95f1-803005996358)
 
 ## Tech Stack
 -----
