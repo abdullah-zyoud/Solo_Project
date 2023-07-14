@@ -75,4 +75,4 @@ Different tools were used to plan and manage the project, such as:
 - Workbench: for creating the ERD
 ## Logo
 -----
- ![Logo1](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/77ab78b5-d642-49ae-85cf-b44cfb05b2b3)
+![Logo1](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/eeb64f4b-20f5-42b0-85f4-aaabce8fd7b0)
