@@ -28,7 +28,7 @@ The users of the platform will be able to browse the available cars, get their f
 -----
 ### Home Page
 -----
-![home](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/19835b01-bf41-4b9e-a1f2-2ec2c2a608a8)
+![home](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/2f05ed5d-9953-4697-bb1f-3c363fac2ad3)
 
 ### User Registration:
 -----
