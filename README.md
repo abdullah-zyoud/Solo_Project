@@ -44,7 +44,7 @@ The users of the platform will be able to browse the available cars, get their f
 ### Add Car:
 -----
 #### Admin can add a car
-![add](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/e83f403c-75b3-4a04-b7c5-6bc9fefbd1e5)
+![add](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/4b7cc2d0-b8e7-45b3-824b-bbc59114b7f3)
 
 
 ### Edit Car:
