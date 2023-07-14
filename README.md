@@ -33,7 +33,7 @@ The users of the platform will be able to browse the available cars, get their f
 ### User Registration:
 -----
 #### I used server side validation to make sure data is entered correctly in the corresponding fields.
-![registration](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/b7699832-6936-4e87-a616-969a98cbd55e)
+![registration](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/f90a33cb-4750-4b3d-bc5c-7ac6ea29f57f)
 
 ### Admin page:
 -----
