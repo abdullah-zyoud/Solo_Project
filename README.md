@@ -50,7 +50,7 @@ The users of the platform will be able to browse the available cars, get their f
 ### Edit Car:
 -----
 #### Admin can Update and Delete the car
-![edit](https://github.com/abdullah-zyoud/Solo-Project/assets/130833624/e3454f70-de4a-48b3-80c5-0ab477ac01c2)
+![edit](https://github.com/abdullah-zyoud/Solo_Project/assets/130833624/a472e15e-bf19-4ff4-97d2-9f0fd4dde326)
 
 
 ### User Page:
